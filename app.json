@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "doceria-kat-cake",
-    "slug": "snack-a35a7eb7-4aa2-44b6-bc98-7d2fcbc6fa40",
+    "name": "doceria-chocokat",
+    "slug": "chocokat",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/log.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/log.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ffbde8"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,12 +19,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/log.png",
+        "backgroundColor": "#ffbde8"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/log.png"
     }
   }
 }
